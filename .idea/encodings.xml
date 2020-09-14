@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework01/IfDemo1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework01/IfDemo2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework01/IfDemo3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework02/SwitchDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo6.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo7.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework03/ForDemo8.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework04/Emperor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework04/ScoreCalculate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework04/TestEmperor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework05/Director.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework05/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework05/EmployeeTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework05/Manager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework05/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/fsh/day01/homework05/PersonTest.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
